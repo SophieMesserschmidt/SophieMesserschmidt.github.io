@@ -1,0 +1,87 @@
+
+* {
+  font-size: 60px;
+  color: white;
+  font-family: courier;
+  font-weight: lighter;
+  text-align: right;
+}
+
+a.hover {
+  text-decoration: underline;
+}
+
+.body {
+  font-size: 100%;
+}
+
+@media only screen and (min-width: 720px) {
+  .row {
+    padding: 1.5em 4em;
+  }
+}
+
+.background {
+  width: 100%;
+  height: auto;
+}
+.tel {
+   transform: rotateY(20deg);
+}
+
+.imressum {
+  font-size: 32px;
+  font-weight: lighter;
+  margin-right: 720px;
+  font-style: italic;
+  text-decoration: none;
+}
+
+.tumblr {
+  font-size: 200px;
+  color: #F78181;
+  text-decoration: none;
+  margin-right: 500px;
+  opacity: 0.0;
+}
+
+.facebook {
+  font-size: 200px;
+  color: #F78181;
+  text-decoration: none;
+  margin-right: 450px;
+  opacity: 0.0;
+
+}
+
+.vimeo {
+  font-size: 200px;
+  color: #F78181;
+  margin-right: 500px;
+  margin-top: 2000px;
+  text-decoration: none;
+  opacity: 0.0;
+}
+
+.block {
+  margin-top: 600px;
+}
+
+.blockeins {
+  margin-top: 70px;
+}
+
+.blockzwei {
+  margin-top: 70px;
+}
+
+.impressium {
+  margin-top: 750px;
+  margin-bottom: 350px;
+}
+
+audio {
+  display: none;
+  volumne: 0.9;
+
+}

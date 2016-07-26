@@ -3,32 +3,51 @@
   font-weight: lighter;
   color: white;
   text-align: center;
-  margin-top: 100px;
-  margin-bottom: -80px;
   background-color: #C7C8F0;
 }
 
-.impressumimimpressum {
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  text-decoration: underline;
+}
+
+.box{
+  margin-top:10%;
+}
+
+
+.impressum_headline {
   font-size: 25px;
-  margin-top: 80px;
+  padding-bottom: 1%;
+}
+
+p{
+  display: inline-block;
+  width: 100%;
+  padding: 1% 0;
 }
 
 .adress {
   font-size: 14px;
-  margin-top: 150px;
+margin-bottom: -1%;
+
 }
 
 .telefon {
   font-size: 14px;
-  margin-bottom: -40px;
+
 }
 
 .street {
   font-size: 14px;
-  margin-top: -40px;
+
 }
 
 .mail {
   font-size: 14px;
-  margin-top: 150px;
+
 }
